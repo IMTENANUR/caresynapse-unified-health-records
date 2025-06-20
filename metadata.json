@@ -1,0 +1,5 @@
+{
+  "name": "CareSynapse - Unified Health Records",
+  "description": "An AI-driven platform to aggregate, normalize, and summarize medical records, providing AI-generated summaries for patients and clinicians.",
+  "requestFramePermissions": []
+}
